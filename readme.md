@@ -1,5 +1,5 @@
 Blog
 
-A minimalist blog written in Express, Node and EJS.
+A minimalist blog project; written in Node (using Express) and EJS layouts.
 
-Based on a challenge project from Angela Yu's Web Developer course in Udemy.
+Based on a challenge project from Angela Yu's Udemy The Complete 2020 Web Development Bootcamp
