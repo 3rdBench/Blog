@@ -4,4 +4,8 @@
 
 <%= startingContent %>
 
+<% for (i = 0; i < blogPost.length; i++) { %>
+  <p><% console.log(blogPost[i].title); %></p>
+<% } %>
+
 <%- include("partials/footer"); -%>
